@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "beezdemand"]
+	path = beezdemand
+	url = https://github.com/brentkaplan/beezdemand
+	shallow = true
+	registered = true
