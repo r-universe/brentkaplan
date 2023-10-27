@@ -5,3 +5,6 @@
 [submodule "beezdemand"]
 	path = beezdemand
 	url = https://github.com/brentkaplan/beezdemand
+[submodule "beezdiscounting"]
+	path = beezdiscounting
+	url = https://github.com/brentkaplan/beezdiscounting
